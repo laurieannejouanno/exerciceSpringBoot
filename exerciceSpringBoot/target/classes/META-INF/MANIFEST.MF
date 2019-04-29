@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: exerciceSpringBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: IN-NN-013
+Implementation-Vendor-Id: com.exercice.springboot
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/exerciceSpringBoot
+Created-By: Maven Integration for Eclipse
+
